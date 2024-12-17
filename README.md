@@ -1,4 +1,5 @@
 Spotify Clone 🎵
+
 Welcome to my Spotify Clone project! This is a static website built using HTML, CSS, Bootstrap, and hover effects to recreate the look and feel of the Spotify website. It’s designed to showcase my front-end development skills.
 
 🌟 Features
