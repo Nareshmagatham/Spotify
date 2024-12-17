@@ -10,4 +10,4 @@ HTML5: For creating the website's structure.
 CSS3: For styling and layout, including hover animations.
 Bootstrap: To ensure responsive design and faster styling.
 
-![Homepage](https://ibb.co/YyVTJyL)
+![image alt](https://github.com/Nareshmagatham/Spotify/blob/0071d737191f98694a92763d5930e4ac986ffb89/Screenshot%202024-12-17%20110513.png)
